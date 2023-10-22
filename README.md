@@ -1,6 +1,8 @@
 # Face_Recognition_System
 Developed a cutting-edge face recognition system, providing state-of-the-art capabilities for identity verification and access control.
+
 **Project Overall Summary**
+
 This project presents the development and implementation of a real-time face
 recognition system utilizing computer vision techniques. The system is designed to
 detect and identify known individuals in **live video streams**, offering applications in
